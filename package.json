@@ -1,0 +1,13 @@
+{
+  "name": "should-i-be-trading-dashboard",
+  "version": "1.0.0",
+  "description": "Bloomberg Terminal-style market dashboard for swing traders",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --check server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
